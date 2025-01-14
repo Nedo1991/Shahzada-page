@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Shahzada 400km Endurance Marathon: Event Details, Past Successes, and Registration">
+    <title>Shahzada 400km Endurance Marathon</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background: linear-gradient(90deg, #1d3557, #457b9d);
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin: 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #1d3557;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .hero {
+            background: url('https://www.shahzada400.com/some-image-path.jpg') no-repeat center center/cover;
+            height: 60vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+        }
+        .hero h2 {
+            font-size: 2.5rem;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 0 15px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .section h3 {
+            font-size: 2rem;
+            color: #1d3557;
+            margin-bottom: 20px;
+        }
+        .cta {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .cta a {
+            background-color: #e63946;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            font-size: 1.2rem;
+            border-radius: 5px;
+        }
+        .cta a:hover {
+            background-color: #d62828;
+        }
+        footer {
+            background-color: #1d3557;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Shahzada 400km Endurance Marathon</h1>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#event-details">Event Details</a>
+        <a href="#past-successes">Past Successes</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section class="hero">
+        <h2>Welcome to the Ultimate Endurance Challenge</h2>
+    </section>
+    <div class="container">
+        <section id="about" class="section">
+            <h3>About Shahzada</h3>
+            <p>The Shahzada 400km Endurance Marathon is a prestigious event that challenges riders and horses to achieve excellence. With a rich history and a supportive community, Shahzada continues to inspire endurance riders worldwide.</p>
+        </section>
+        <section id="event-details" class="section">
+            <h3>Event Details</h3>
+            <p>Join us for the 400km Marathon or the 120km Mini Marathon. Check out the routes, schedules, and registration details below:</p>
+            <div class="cta">
+                <a href="#">Register Now</a>
+            </div>
+        </section>
+        <section id="past-successes" class="section">
+            <h3>Past Successes</h3>
+            <p>Discover inspiring stories and achievements from our past participants. Their dedication and accomplishments continue to inspire the next generation of riders.</p>
+        </section>
+        <section id="gallery" class="section">
+            <h3>Gallery</h3>
+            <p>Explore photos and videos from our previous events, showcasing the passion and spirit of endurance riding.</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2025 Shahzada 400km Endurance Marathon. All rights reserved.</p>
+    </footer>
+</body>
+</html>
